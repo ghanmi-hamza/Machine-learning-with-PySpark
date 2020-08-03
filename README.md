@@ -1,31 +1,23 @@
-# Machine learning for NLP
+# Machine learning Using Pyspark
 
-#### Basic Needs Basic Rights Kenya - Tech4MentalHealth
-#### This is a  competition from ZINDI Plateform.
+##### This is a helpful notebook which contains:
+- Creating a Spark application.
+- Using Spark sql for manipulating the dataframe
+- Using data processing steps (feature encoding, scaling, selection ...)
+- Training and Testing ml-models
 
-The aim of the competition is to:
-- develop a machine learning model that classifies statements and questions expressed by university students in Kenya when  peaking about the mental health challenges they struggle with. The four categories are depression, suicide, alchoholism, and drug abuse.
-- The evaluation metric for this challenge is Log Loss
+##### In This notebook I tested almost machine learning algorithms:
 
-In This notebook I tested almost machine learning algorithms:
-- SVM
-- SGD
-- XGBOOST
+- DECISION TREE
+- Deep Learning Multilayer Perceptron
 - NAIVE BAYES
 - LOGISTIC REGRESSION
-- ADABOOST
+- One-vs-Rest 
 - RANDOM FOREST
-- ...
 
-##### My best result:
-- log loss = 0.460
-- Rank = 179/492
+Note that this notebook was made in [google colab](https://colab.research.google.com/) so you don't need to install any package just run cells in google colab +  I used keystroke data and Touch data 
 
 
 
-Competition URL :
-https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth
-
-
-**Free Software, Hell Yeah!**
+**Helpful notebook, Yeah!**
 
